@@ -1,5 +1,5 @@
 # Project Notes
-Step 1: Choose a project idea and name, being commits.
+Step 1: Choose a project idea and name, begin commits.
 Step 2: Draw out wireframe, write out list of soft-goals and hard-goals for project.
 Step 3: Write out and test code.
 Step 4: Code reviews from peers.
